@@ -11,7 +11,9 @@
           <ion-title size="large">Tab 1</ion-title>
         </ion-toolbar>
       </ion-header>
-    
+      <p>NIM: 043261038</p> 
+      <p>NAMA: Imam Fahrur Rofi</p> 
+      <p>UPBJJ: 21/Jakarta</p> 
       <ExploreContainer name="Tab 1 page" />
     </ion-content>
   </ion-page>
